@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rayan
 
-<!--
-**Rayan112311/Rayan112311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Graduate | Networking Enthusiast  
+🚀 Interested in Automation & Web Development  
+📍 Yemen  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, JavaScript, HTML, CSS  
+- Networking Basics  
+- Selenium Automation  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- 🔹 Coming soon...
+
+## 📈 Currently Learning
+- Backend Development  
+- Advanced Networking  
+
+## 🎯 Goal
+Build real projects and generate income online 💰
